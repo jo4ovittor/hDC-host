@@ -7,7 +7,7 @@
 #### Primeiro projeto do curso
 >Após estudos bem aprofundados na base HTML e CSS foi realizado uma landing page simulando um site de hospedagem com serviços de suporte, pequenas modificações do projeto original para explorar novos horizontes.
 #### Desafios
->As alterações do projeto original resultaram em dificuldades com a responsividade dos elementos onde encontrei a solução através das medias querys. Algumas regras utilizadas foram display:block, display:none, flex-wrap:wrap, flex-direction:row, box-sizing:content-box e alterações com width em porcentagens.
+>As alterações do projeto original resultaram em dificuldades com a responsividade dos elementos onde encontrei a solução através das medias queries. Algumas regras utilizadas foram display:block, display:none, flex-wrap:wrap, flex-direction:row, box-sizing:content-box e alterações com width em porcentagens.
 
 <br>
 
